@@ -1,0 +1,32 @@
+div {
+  border: 1px solid black;
+  margin: 4px;
+}
+
+#container {
+
+}
+
+#photo {
+  float: left;
+  background: #dedede;
+  height: 450px;
+  width: 300px;
+}
+
+#separator {
+  clear: both;
+  overflow: hidden;
+}
+
+#text-right {
+
+}
+
+#relations {
+
+}
+
+#titulo {
+
+}
