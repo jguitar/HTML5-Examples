@@ -3,23 +3,27 @@ div {
   margin: 4px;
 }
 
-#container {
+#global-container {
+  overflow: hidden;
+  clear: both;
+}
 
+#photo, #block-right {
+  float: left;
+  position: relative;
 }
 
 #photo {
-  float: left;
   background: #dedede;
-  height: 450px;
+  height: 350px;
   width: 300px;
 }
 
-#separator {
-  clear: both;
-  overflow: hidden;
+#block-right {
+
 }
 
-#text-right {
+#separator {
 
 }
 
