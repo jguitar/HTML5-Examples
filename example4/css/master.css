@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header, section, footer, aside, nav, article, figure, figcaption, hgroup {
+  display: block;
+}
+
+a {
+  color: #000000;
+  -webkit-transition: color 0.7s ease-in 0.3s;
+  -moz-transition: color 0.7s ease-in 0.3s;
+}
+
+a:hover {
+  color: #dedede;
+}
